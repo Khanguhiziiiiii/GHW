@@ -1,2 +1,7 @@
 # GHW
-Mini Project 1: Pomodoro Timer - A simple Pomodoro Timer that allows you to set a timer for 25 minutes and take a break for 5 minutes.
+Mini Projects I coded during GHW
+Mini Project 1: Pomodoro Timer
+Mini Project 2: Calculator
+Mini Project 3: Fitness Tracker
+Mini Project 1: Portfolio
+Mini Project 1: Expense Tracker
